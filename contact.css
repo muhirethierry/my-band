@@ -7,6 +7,8 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* --- Header and Navigation --- */
 .header {
     display: flex;
     justify-content: space-between;
@@ -14,6 +16,7 @@ body {
     /* FIX: Ensure padding is consistent with the rest of the layout */
     padding: 30px 100px; 
 }
+
 .logo {
     font-size: 1.2em;
     font-weight: bold;
